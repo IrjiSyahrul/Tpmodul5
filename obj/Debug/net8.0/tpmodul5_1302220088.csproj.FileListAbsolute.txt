@@ -1,0 +1,15 @@
+D:\Kuyliah\Semester 4\KPL TP\tpmodul5_1302220088\tpmodul5_1302220088\bin\Debug\net8.0\tpmodul5_1302220088.exe
+D:\Kuyliah\Semester 4\KPL TP\tpmodul5_1302220088\tpmodul5_1302220088\bin\Debug\net8.0\tpmodul5_1302220088.deps.json
+D:\Kuyliah\Semester 4\KPL TP\tpmodul5_1302220088\tpmodul5_1302220088\bin\Debug\net8.0\tpmodul5_1302220088.runtimeconfig.json
+D:\Kuyliah\Semester 4\KPL TP\tpmodul5_1302220088\tpmodul5_1302220088\bin\Debug\net8.0\tpmodul5_1302220088.dll
+D:\Kuyliah\Semester 4\KPL TP\tpmodul5_1302220088\tpmodul5_1302220088\bin\Debug\net8.0\tpmodul5_1302220088.pdb
+D:\Kuyliah\Semester 4\KPL TP\tpmodul5_1302220088\tpmodul5_1302220088\obj\Debug\net8.0\tpmodul5_1302220088.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kuyliah\Semester 4\KPL TP\tpmodul5_1302220088\tpmodul5_1302220088\obj\Debug\net8.0\tpmodul5_1302220088.AssemblyInfoInputs.cache
+D:\Kuyliah\Semester 4\KPL TP\tpmodul5_1302220088\tpmodul5_1302220088\obj\Debug\net8.0\tpmodul5_1302220088.AssemblyInfo.cs
+D:\Kuyliah\Semester 4\KPL TP\tpmodul5_1302220088\tpmodul5_1302220088\obj\Debug\net8.0\tpmodul5_1302220088.csproj.CoreCompileInputs.cache
+D:\Kuyliah\Semester 4\KPL TP\tpmodul5_1302220088\tpmodul5_1302220088\obj\Debug\net8.0\tpmodul5_1302220088.sourcelink.json
+D:\Kuyliah\Semester 4\KPL TP\tpmodul5_1302220088\tpmodul5_1302220088\obj\Debug\net8.0\tpmodul5_1302220088.dll
+D:\Kuyliah\Semester 4\KPL TP\tpmodul5_1302220088\tpmodul5_1302220088\obj\Debug\net8.0\refint\tpmodul5_1302220088.dll
+D:\Kuyliah\Semester 4\KPL TP\tpmodul5_1302220088\tpmodul5_1302220088\obj\Debug\net8.0\tpmodul5_1302220088.pdb
+D:\Kuyliah\Semester 4\KPL TP\tpmodul5_1302220088\tpmodul5_1302220088\obj\Debug\net8.0\tpmodul5_1302220088.genruntimeconfig.cache
+D:\Kuyliah\Semester 4\KPL TP\tpmodul5_1302220088\tpmodul5_1302220088\obj\Debug\net8.0\ref\tpmodul5_1302220088.dll
